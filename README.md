@@ -28,7 +28,7 @@ To solve this problem, we implement two algorithms: (a) an e-greedy strategy usi
 
 Hyperparameter optimization (Algorithm Configuration, or even, Automated Machine Learning) is one of the toughest problems in ML and has received increased attention in recent years. In this tutorial, we frame the hyperparameter optimization problem as a reinforcement learning problem. Given this formulation, our reward will be the chosen model's score in the validation set, and our action will be the choice of a hyperparameter set. We choose Gaussian Processes to perform a regression from the hyperparameters to the validation score, which allows us to get a distribution over functions, and therefore, apply Thompson Sampling. 
 
-We first show a simple example which illustrates the biiger problem: optimizting the non-convex [Ackley's function](https://en.wikipedia.org/wiki/Ackley_function), without using gradient information. Then, we build a validation framework and optimize the regularization parameter of a linear model with L1 regularization (LASSO). 
+We first show a simple example which illustrates the bigger problem: optimizting the non-convex [Ackley's function](https://en.wikipedia.org/wiki/Ackley_function), without using gradient information. Then, we build a validation framework and optimize the regularization parameter of a linear model with L1 regularization (LASSO). 
 
 ## Required libraries
 
