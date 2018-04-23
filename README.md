@@ -46,6 +46,7 @@ We use Python 3.6.2. Most of the requirements are satistified by installing the 
 * **pandas** to manipulate data
 * **sklearn** to run Logistic Regression
 * **tqdm** to time simulation executions
+* **tensorflow** and **keras**: for neural networks
 
 ## Running the Notebooks
 
