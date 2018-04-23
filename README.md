@@ -44,7 +44,7 @@ We use Python 3.6.2. Most of the requirements are satistified by installing the 
 * **numpy** and **scipy** for calculations, distibutons and optimization
 * **matplotlib** and **seaborn** for visualizations
 * **pandas** to manipulate data
-* **sklearn** to run Logistic Regression
+* **sklearn** to run Logistic Regression and Random Forests
 * **tqdm** to time simulation executions
 * **tensorflow** and **keras**: for neural networks
 
