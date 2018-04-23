@@ -2,7 +2,7 @@
 
 ## An Interactive Introduction to Reinforcement Learning
 
-In this repository, we extend the code presented for the first of Big Data's open seminar series, *An Interactive Introduction to Reinforcement Learning*, presented at 2017-11-21. In this talk, we introduce various algorithms for solving the exploration/exploitation trade-off in reinforcement learning. We present three scenarios: the Multi-Armed Bandit (Bernoulli) setting, the Contextual Bandit setting, and Bayesian Optimization of hyperparameters. The algorithms and concepts are presented with mathematical concepts, code, and interactive animations conveyed using Jupyter Notebooks.
+In this repository, we extend the code presented for the first of Big Data's open seminar series, *An Interactive Introduction to Reinforcement Learning*, presented at 2017-11-21. In this talk, we introduce various algorithms for solving the exploration/exploitation trade-off in reinforcement learning. We present four scenarios: the Multi-Armed Bandit (Bernoulli) setting, the Contextual Bandit setting, the Mushroom Bandit, and Bayesian Optimization of hyperparameters. The algorithms and concepts are presented with mathematical concepts, code, and interactive animations conveyed using Jupyter Notebooks.
 
 ## What you'll learn
 
